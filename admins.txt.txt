@@ -2,7 +2,6 @@
 ~Natasha Audax~
 Eoj_
 ~Fritz Audax~
-~Shade Audax~
 ~Fortis Audax~
 ~Mellana Audax~
 ~Neuters Audax~
@@ -19,3 +18,4 @@ TheOniGirl
 ff5f15 Hazard
 CUBIC Audax
 MTF-nine
+~Spirit Iudex~
