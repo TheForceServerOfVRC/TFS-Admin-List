@@ -3,7 +3,6 @@
 Eoj_
 ~Fritz Audax~
 ~Fortis Audax~
-~Mellana Audax~
 ~Neuters Audax~
 Pingless
 GH0STGUY
@@ -19,3 +18,4 @@ ff5f15 Hazard
 CUBIC Audax
 MTF-nine
 ~Spirit Iudex~
+~Mellana Audax~
