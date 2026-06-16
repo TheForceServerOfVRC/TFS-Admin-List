@@ -5,7 +5,7 @@ Eoj_
 ~Fortis Audax~
 ~Neuters Audax~
 Pingless
-GH0STGUY
+~Ghost Audax~
 ~BunBun Audax~
 ~Meeko Audax~
 BreakYoKnees
@@ -18,6 +18,6 @@ ff5f15 Hazard
 CUBIC Audax
 MTF-nine
 ~Mellana Audax~
-Fundamguyidk
+~Fundam Audax~
 ~Hoss Audax~
 RGG59
