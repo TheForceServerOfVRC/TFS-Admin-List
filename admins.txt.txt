@@ -5,7 +5,7 @@ Eoj_
 ~Fortis Audax~
 ~Neuters Audax~
 Pingless
-~Ghost Audax~
+GH0STGUY
 ~BunBun Audax~
 ~Meeko Audax~
 BreakYoKnees
@@ -21,3 +21,4 @@ MTF-nine
 ~Fundam Audax~
 ~Hoss Audax~
 TheForceServer
+Astarism
