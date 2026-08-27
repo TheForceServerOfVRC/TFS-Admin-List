@@ -5,7 +5,7 @@ Eoj_
 ~Fortis Audax~
 ~Neuters Audax~
 Pingless
-GH0STGUY
+~GH0ST-AUDAX~
 ~BunBun Audax~
 ~Meeko Audax~
 BreakYoKnees
